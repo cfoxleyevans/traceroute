@@ -1,4 +1,4 @@
 traceroute
 ==========
 
-A clone of the unix command line tool traceroute
+A clone of the linux command line tool traceroute
